@@ -10,3 +10,6 @@ My favorite candy & their type!
 | Twix              | Chocolate Bar    |
 | LifeSavers        | Hard Candy       |
 | Milky Way         | Chocolate Bar    |
+
+## Navigation
+[Previous File](planets.md) | [Back to Home Page](README.md)
