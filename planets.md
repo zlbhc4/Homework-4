@@ -17,4 +17,4 @@ Here are some planets that are visible only during December-February:
 
 Make sure to avoid light pollution when viewing for best results!
 ## Navigation
-[Previous File](stingrays.md) | [Next File](mycandy.md) | [Back to Home Page] (README.md)
+[Previous File](stingrays.md) | [Next File](mycandy.md) | [Back to Home Page](README.md) |
