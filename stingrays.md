@@ -1,5 +1,5 @@
 # Stingray Facts
-Stingrays are aquatic fish, that are made of only cartilage. Their flat bodies make it easy to hover the ocean flooe.
+Stingrays are aquatic fish, that are made of only cartilage. Their flat bodies make it easy to hover the ocean floor.
 They are related closely to sharks, and are known to be dangerous because of the barb on their tails.
 ---
 ## Key Characteristics
